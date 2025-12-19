@@ -168,7 +168,3 @@ See `.github/workflows/ci-cd.yml` for deployment configuration.
 
 MIT License - see LICENSE file for details.
 
----
-
-Built with ❤️ for the Tata Capital Hackathon
-#
